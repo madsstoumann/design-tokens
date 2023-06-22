@@ -1,0 +1,1635 @@
+{
+  "accent-color": {
+    "group": "CSS Basic User Interface",
+    "prefix": "acc"
+  },
+  "align-content": {
+    "group": "CSS Box Alignment",
+    "prefix": "ac"
+  },
+  "align-items": {
+    "group": "CSS Box Alignment",
+    "prefix": "ai"
+  },
+  "align-self": {
+    "group": "CSS Box Alignment",
+    "prefix": "as"
+  },
+  "align-tracks": {
+    "group": "CSS Grid Layout",
+    "prefix": "at"
+  },
+  "all": {
+    "group": "CSS Miscellaneous",
+    "prefix": "all"
+  },
+  "animation": {
+    "group": "CSS Animations",
+    "prefix": "anim"
+  },
+  "animation-delay": {
+    "group": "CSS Animations",
+    "prefix": "animdel"
+  },
+  "animation-direction": {
+    "group": "CSS Animations",
+    "prefix": "animdir"
+  },
+  "animation-duration": {
+    "group": "CSS Animations",
+    "prefix": "animdur"
+  },
+  "animation-fill-mode": {
+    "group": "CSS Animations",
+    "prefix": "animfm"
+  },
+  "animation-iteration-count": {
+    "group": "CSS Animations",
+    "prefix": "animic"
+  },
+  "animation-name": {
+    "group": "CSS Animations",
+    "prefix": "animn"
+  },
+  "animation-play-state": {
+    "group": "CSS Animations",
+    "prefix": "animps"
+  },
+  "animation-timing-function": {
+    "group": "CSS Animations",
+    "prefix": "animtf"
+  },
+  "animation-timeline": {
+    "group": "CSS Animations",
+    "prefix": "at"
+  },
+  "appearance": {
+    "group": "CSS Basic User Interface",
+    "prefix": "ap"
+  },
+  "aspect-ratio": {
+    "group": "CSS Basic User Interface",
+    "prefix": "ar"
+  },
+  "azimuth": {
+    "group": "CSS Speech",
+    "prefix": "azi"
+  },
+  "backdrop-filter": {
+    "group": "Filter Effects",
+    "prefix": "bf"
+  },
+  "backface-visibility": {
+    "group": "CSS Transforms",
+    "prefix": "bfv"
+  },
+  "background": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bg"
+  },
+  "background-attachment": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bga"
+  },
+  "background-blend-mode": {
+    "group": "Compositing and Blending",
+    "prefix": "bbm"
+  },
+  "background-clip": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgcp"
+  },
+  "background-color": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgc"
+  },
+  "background-image": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgi"
+  },
+  "background-origin": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgo"
+  },
+  "background-position": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgp"
+  },
+  "background-position-x": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgpx"
+  },
+  "background-position-y": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgpy"
+  },
+  "background-repeat": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgr"
+  },
+  "background-size": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bgsz"
+  },
+  "block-overflow": {
+    "group": "CSS Overflow",
+    "prefix": "bo"
+  },
+  "block-size": {
+    "group": "CSS Logical Properties",
+    "prefix": "bs"
+  },
+  "border": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bd"
+  },
+  "border-block": {
+    "group": "CSS Logical Properties",
+    "prefix": "bb"
+  },
+  "border-block-color": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbc"
+  },
+  "border-block-style": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbs"
+  },
+  "border-block-width": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbw"
+  },
+  "border-block-end": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbe"
+  },
+  "border-block-end-color": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbec"
+  },
+  "border-block-end-style": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbes"
+  },
+  "border-block-end-width": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbew"
+  },
+  "border-block-start": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbs"
+  },
+  "border-block-start-color": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbsc"
+  },
+  "border-block-start-style": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbss"
+  },
+  "border-block-start-width": {
+    "group": "CSS Logical Properties",
+    "prefix": "bbsw"
+  },
+  "border-bottom": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdb"
+  },
+  "border-bottom-color": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdbc"
+  },
+  "border-bottom-left-radius": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdblrs"
+  },
+  "border-bottom-right-radius": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdbrrs"
+  },
+  "border-bottom-style": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdbs"
+  },
+  "border-bottom-width": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdbw"
+  },
+  "border-collapse": {
+    "group": "CSS Table",
+    "prefix": "bdcl"
+  },
+  "border-color": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdc"
+  },
+  "border-end-end-radius": {
+    "group": "CSS Logical Properties",
+    "prefix": "beer"
+  },
+  "border-end-start-radius": {
+    "group": "CSS Logical Properties",
+    "prefix": "besr"
+  },
+  "border-image": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdi"
+  },
+  "border-image-outset": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bio"
+  },
+  "border-image-repeat": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bir"
+  },
+  "border-image-slice": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bis"
+  },
+  "border-image-source": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bis"
+  },
+  "border-image-width": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "biw"
+  },
+  "border-inline": {
+    "group": "CSS Logical Properties",
+    "prefix": "bi"
+  },
+  "border-inline-end": {
+    "group": "CSS Logical Properties",
+    "prefix": "bie"
+  },
+  "border-inline-color": {
+    "group": "CSS Logical Properties",
+    "prefix": "bic"
+  },
+  "border-inline-style": {
+    "group": "CSS Logical Properties",
+    "prefix": "bis"
+  },
+  "border-inline-width": {
+    "group": "CSS Logical Properties",
+    "prefix": "biw"
+  },
+  "border-inline-end-color": {
+    "group": "CSS Logical Properties",
+    "prefix": "biec"
+  },
+  "border-inline-end-style": {
+    "group": "CSS Logical Properties",
+    "prefix": "bies"
+  },
+  "border-inline-end-width": {
+    "group": "CSS Logical Properties",
+    "prefix": "biew"
+  },
+  "border-inline-start": {
+    "group": "CSS Logical Properties",
+    "prefix": "bis"
+  },
+  "border-inline-start-color": {
+    "group": "CSS Logical Properties",
+    "prefix": "bisc"
+  },
+  "border-inline-start-style": {
+    "group": "CSS Logical Properties",
+    "prefix": "biss"
+  },
+  "border-inline-start-width": {
+    "group": "CSS Logical Properties",
+    "prefix": "bisw"
+  },
+  "border-left": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdl"
+  },
+  "border-left-color": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdlc"
+  },
+  "border-left-style": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdls"
+  },
+  "border-left-width": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdlw"
+  },
+  "border-radius": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdrs"
+  },
+  "border-right": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdr"
+  },
+  "border-right-color": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdrc"
+  },
+  "border-right-style": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdrst"
+  },
+  "border-right-width": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdrw"
+  },
+  "border-spacing": {
+    "group": "CSS Table",
+    "prefix": "bdsp"
+  },
+  "border-start-end-radius": {
+    "group": "CSS Logical Properties",
+    "prefix": "bser"
+  },
+  "border-start-start-radius": {
+    "group": "CSS Logical Properties",
+    "prefix": "bssr"
+  },
+  "border-style": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bds"
+  },
+  "border-top": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdt"
+  },
+  "border-top-color": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdtc"
+  },
+  "border-top-left-radius": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdtlrs"
+  },
+  "border-top-right-radius": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdtrrs"
+  },
+  "border-top-style": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdts"
+  },
+  "border-top-width": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdtw"
+  },
+  "border-width": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bdw"
+  },
+  "bottom": {
+    "group": "CSS Positioning",
+    "prefix": "b"
+  },
+  "box-decoration-break": {
+    "group": "CSS Fragmentation",
+    "prefix": "bodb"
+  },
+  "box-shadow": {
+    "group": "CSS Backgrounds and Borders",
+    "prefix": "bxsh"
+  },
+  "box-sizing": {
+    "group": "CSS Box Model",
+    "prefix": "bxsz"
+  },
+  "break-after": {
+    "group": "CSS Fragmentation",
+    "prefix": "ba"
+  },
+  "break-before": {
+    "group": "CSS Fragmentation",
+    "prefix": "bb"
+  },
+  "break-inside": {
+    "group": "CSS Fragmentation",
+    "prefix": "bi"
+  },
+  "caption-side": {
+    "group": "CSS Table",
+    "prefix": "cps"
+  },
+  "caret-color": {
+    "group": "CSS Basic User Interface",
+    "prefix": "cc"
+  },
+  "clear": {
+    "group": "CSS Positioning",
+    "prefix": "cl"
+  },
+  "clip": {
+    "group": "CSS Masking",
+    "prefix": "cp"
+  },
+  "clip-path": {
+    "group": "CSS Masking",
+    "prefix": "clp"
+  },
+  "color": {
+    "group": "CSS Color",
+    "prefix": "c"
+  },
+  "print-color-adjust": {
+    "group": "CSS Color",
+    "prefix": "pca"
+  },
+  "color-scheme": {
+    "group": "CSS Color",
+    "prefix": "cs"
+  },
+  "column-count": {
+    "group": "CSS Columns",
+    "prefix": "colmc"
+  },
+  "column-fill": {
+    "group": "CSS Columns",
+    "prefix": "colmf"
+  },
+  "column-gap": {
+    "group": "CSS Box Alignment",
+    "prefix": "colmg"
+  },
+  "column-rule": {
+    "group": "CSS Columns",
+    "prefix": "colmr"
+  },
+  "column-rule-color": {
+    "group": "CSS Columns",
+    "prefix": "colmrc"
+  },
+  "column-rule-style": {
+    "group": "CSS Columns",
+    "prefix": "colmrs"
+  },
+  "column-rule-width": {
+    "group": "CSS Columns",
+    "prefix": "colmrw"
+  },
+  "column-span": {
+    "group": "CSS Columns",
+    "prefix": "colms"
+  },
+  "column-width": {
+    "group": "CSS Columns",
+    "prefix": "colmw"
+  },
+  "columns": {
+    "group": "CSS Columns",
+    "prefix": "colm"
+  },
+  "contain": {
+    "group": "CSS Containment",
+    "prefix": "con"
+  },
+  "content": {
+    "group": "CSS Generated Content",
+    "prefix": "cnt"
+  },
+  "content-visibility": {
+    "group": "CSS Containment",
+    "prefix": "cv"
+  },
+  "counter-increment": {
+    "group": "CSS Counter Styles",
+    "prefix": "coi"
+  },
+  "counter-reset": {
+    "group": "CSS Counter Styles",
+    "prefix": "cor"
+  },
+  "counter-set": {
+    "group": "CSS Counter Styles",
+    "prefix": "cs"
+  },
+  "cursor": {
+    "group": "CSS Basic User Interface",
+    "prefix": "cur"
+  },
+  "direction": {
+    "group": "CSS Writing Modes",
+    "prefix": "dir"
+  },
+  "display": {
+    "group": "CSS Display",
+    "prefix": "d"
+  },
+  "empty-cells": {
+    "group": "CSS Table",
+    "prefix": "ec"
+  },
+  "filter": {
+    "group": "Filter Effects",
+    "prefix": "fil"
+  },
+  "flex": {
+    "group": "CSS Flexible Box Layout",
+    "prefix": "fx"
+  },
+  "flex-basis": {
+    "group": "CSS Flexible Box Layout",
+    "prefix": "fxb"
+  },
+  "flex-direction": {
+    "group": "CSS Flexible Box Layout",
+    "prefix": "fxd"
+  },
+  "flex-flow": {
+    "group": "CSS Flexible Box Layout",
+    "prefix": "fxf"
+  },
+  "flex-grow": {
+    "group": "CSS Flexible Box Layout",
+    "prefix": "fxg"
+  },
+  "flex-shrink": {
+    "group": "CSS Flexible Box Layout",
+    "prefix": "fxsh"
+  },
+  "flex-wrap": {
+    "group": "CSS Flexible Box Layout",
+    "prefix": "fxw"
+  },
+  "float": {
+    "group": "CSS Positioning",
+    "prefix": "fl"
+  },
+  "font": {
+    "group": "CSS Fonts",
+    "prefix": "f"
+  },
+  "font-family": {
+    "group": "CSS Fonts",
+    "prefix": "ff"
+  },
+  "font-feature-settings": {
+    "group": "CSS Fonts",
+    "prefix": "ffs"
+  },
+  "font-kerning": {
+    "group": "CSS Fonts",
+    "prefix": "fk"
+  },
+  "font-language-override": {
+    "group": "CSS Fonts",
+    "prefix": "flo"
+  },
+  "font-optical-sizing": {
+    "group": "CSS Fonts",
+    "prefix": "fos"
+  },
+  "font-variation-settings": {
+    "group": "CSS Fonts",
+    "prefix": "fvs"
+  },
+  "font-size": {
+    "group": "CSS Fonts",
+    "prefix": "fsz"
+  },
+  "font-size-adjust": {
+    "group": "CSS Fonts",
+    "prefix": "fsza"
+  },
+  "font-smooth": {
+    "group": "CSS Fonts",
+    "prefix": "fsmo"
+  },
+  "font-stretch": {
+    "group": "CSS Fonts",
+    "prefix": "fst"
+  },
+  "font-style": {
+    "group": "CSS Fonts",
+    "prefix": "fs"
+  },
+  "font-synthesis": {
+    "group": "CSS Fonts",
+    "prefix": "fsy"
+  },
+  "font-variant": {
+    "group": "CSS Fonts",
+    "prefix": "fv"
+  },
+  "font-variant-alternates": {
+    "group": "CSS Fonts",
+    "prefix": "fva"
+  },
+  "font-variant-caps": {
+    "group": "CSS Fonts",
+    "prefix": "fvc"
+  },
+  "font-variant-east-asian": {
+    "group": "CSS Fonts",
+    "prefix": "fvea"
+  },
+  "font-variant-ligatures": {
+    "group": "CSS Fonts",
+    "prefix": "fvl"
+  },
+  "font-variant-numeric": {
+    "group": "CSS Fonts",
+    "prefix": "fvn"
+  },
+  "font-variant-position": {
+    "group": "CSS Fonts",
+    "prefix": "fvp"
+  },
+  "font-weight": {
+    "group": "CSS Fonts",
+    "prefix": "fw"
+  },
+  "forced-color-adjust": {
+    "group": "CSS Color",
+    "prefix": "fca"
+  },
+  "gap": {
+    "group": "CSS Box Alignment",
+    "prefix": "gap"
+  },
+  "grid": {
+    "group": "CSS Grid Layout",
+    "prefix": "gd"
+  },
+  "grid-area": {
+    "group": "CSS Grid Layout",
+    "prefix": "ga"
+  },
+  "grid-auto-columns": {
+    "group": "CSS Grid Layout",
+    "prefix": "gac"
+  },
+  "grid-auto-flow": {
+    "group": "CSS Grid Layout",
+    "prefix": "gaf"
+  },
+  "grid-auto-rows": {
+    "group": "CSS Grid Layout",
+    "prefix": "gar"
+  },
+  "grid-column": {
+    "group": "CSS Grid Layout",
+    "prefix": "gc"
+  },
+  "grid-column-end": {
+    "group": "CSS Grid Layout",
+    "prefix": "gce"
+  },
+  "grid-column-gap": {
+    "group": "CSS Grid Layout",
+    "prefix": "gcg"
+  },
+  "grid-column-start": {
+    "group": "CSS Grid Layout",
+    "prefix": "gcs"
+  },
+  "grid-gap": {
+    "group": "CSS Grid Layout",
+    "prefix": "gg"
+  },
+  "grid-row": {
+    "group": "CSS Grid Layout",
+    "prefix": "gr"
+  },
+  "grid-row-end": {
+    "group": "CSS Grid Layout",
+    "prefix": "gre"
+  },
+  "grid-row-gap": {
+    "group": "CSS Grid Layout",
+    "prefix": "grg"
+  },
+  "grid-row-start": {
+    "group": "CSS Grid Layout",
+    "prefix": "grs"
+  },
+  "grid-template": {
+    "group": "CSS Grid Layout",
+    "prefix": "gt"
+  },
+  "grid-template-areas": {
+    "group": "CSS Grid Layout",
+    "prefix": "gta"
+  },
+  "grid-template-columns": {
+    "group": "CSS Grid Layout",
+    "prefix": "gtc"
+  },
+  "grid-template-rows": {
+    "group": "CSS Grid Layout",
+    "prefix": "gtr"
+  },
+  "hanging-punctuation": {
+    "group": "CSS Text",
+    "prefix": "hp"
+  },
+  "height": {
+    "group": "CSS Box Model",
+    "prefix": "h"
+  },
+  "hyphenate-character": {
+    "group": "CSS Text",
+    "prefix": "hc"
+  },
+  "hyphens": {
+    "group": "CSS Text",
+    "prefix": "hyp"
+  },
+  "image-orientation": {
+    "group": "CSS Images",
+    "prefix": "io"
+  },
+  "image-rendering": {
+    "group": "CSS Images",
+    "prefix": "ir"
+  },
+  "image-resolution": {
+    "group": "CSS Images",
+    "prefix": "ir"
+  },
+  "ime-mode": {
+    "group": "CSS Basic User Interface",
+    "prefix": "im"
+  },
+  "initial-letter": {
+    "group": "CSS Inline",
+    "prefix": "il"
+  },
+  "initial-letter-align": {
+    "group": "CSS Inline",
+    "prefix": "ila"
+  },
+  "inline-size": {
+    "group": "CSS Logical Properties",
+    "prefix": "is"
+  },
+  "input-security": {
+    "group": "CSS Basic User Interface",
+    "prefix": "is"
+  },
+  "inset": {
+    "group": "CSS Logical Properties",
+    "prefix": "ins"
+  },
+  "inset-block": {
+    "group": "CSS Logical Properties",
+    "prefix": "ib"
+  },
+  "inset-block-end": {
+    "group": "CSS Logical Properties",
+    "prefix": "ibe"
+  },
+  "inset-block-start": {
+    "group": "CSS Logical Properties",
+    "prefix": "ibs"
+  },
+  "inset-inline": {
+    "group": "CSS Logical Properties",
+    "prefix": "ii"
+  },
+  "inset-inline-end": {
+    "group": "CSS Logical Properties",
+    "prefix": "iie"
+  },
+  "inset-inline-start": {
+    "group": "CSS Logical Properties",
+    "prefix": "iis"
+  },
+  "isolation": {
+    "group": "Compositing and Blending",
+    "prefix": "iso"
+  },
+  "justify-content": {
+    "group": "CSS Box Alignment",
+    "prefix": "jc"
+  },
+  "justify-items": {
+    "group": "CSS Box Alignment",
+    "prefix": "ji"
+  },
+  "justify-self": {
+    "group": "CSS Box Alignment",
+    "prefix": "js"
+  },
+  "justify-tracks": {
+    "group": "CSS Grid Layout",
+    "prefix": "jt"
+  },
+  "left": {
+    "group": "CSS Positioning",
+    "prefix": "l"
+  },
+  "letter-spacing": {
+    "group": "CSS Text",
+    "prefix": "lts"
+  },
+  "line-break": {
+    "group": "CSS Text",
+    "prefix": "lb"
+  },
+  "line-clamp": {
+    "group": "CSS Overflow",
+    "prefix": "lc"
+  },
+  "line-height": {
+    "group": "CSS Fonts",
+    "prefix": "lh"
+  },
+  "line-height-step": {
+    "group": "CSS Fonts",
+    "prefix": "lhs"
+  },
+  "list-style": {
+    "group": "CSS Lists and Counters",
+    "prefix": "lis"
+  },
+  "list-style-image": {
+    "group": "CSS Lists and Counters",
+    "prefix": "lisi"
+  },
+  "list-style-position": {
+    "group": "CSS Lists and Counters",
+    "prefix": "lisp"
+  },
+  "list-style-type": {
+    "group": "CSS Lists and Counters",
+    "prefix": "list"
+  },
+  "margin": {
+    "group": "CSS Box Model",
+    "prefix": "m"
+  },
+  "margin-block": {
+    "group": "CSS Logical Properties",
+    "prefix": "mab"
+  },
+  "margin-block-end": {
+    "group": "CSS Logical Properties",
+    "prefix": "mbe"
+  },
+  "margin-block-start": {
+    "group": "CSS Logical Properties",
+    "prefix": "mbs"
+  },
+  "margin-bottom": {
+    "group": "CSS Box Model",
+    "prefix": "mb"
+  },
+  "margin-inline": {
+    "group": "CSS Logical Properties",
+    "prefix": "mi"
+  },
+  "margin-inline-end": {
+    "group": "CSS Logical Properties",
+    "prefix": "mie"
+  },
+  "margin-inline-start": {
+    "group": "CSS Logical Properties",
+    "prefix": "mis"
+  },
+  "margin-left": {
+    "group": "CSS Box Model",
+    "prefix": "ml"
+  },
+  "margin-right": {
+    "group": "CSS Box Model",
+    "prefix": "mr"
+  },
+  "margin-top": {
+    "group": "CSS Box Model",
+    "prefix": "mt"
+  },
+  "margin-trim": {
+    "group": "CSS Box Model",
+    "prefix": "mat"
+  },
+  "mask": {
+    "group": "CSS Masking",
+    "stacking": true,
+    "prefix": "mas"
+  },
+  "mask-border": {
+    "group": "CSS Masking",
+    "stacking": true,
+    "prefix": "msb"
+  },
+  "mask-border-mode": {
+    "group": "CSS Masking",
+    "prefix": "mbm"
+  },
+  "mask-border-outset": {
+    "group": "CSS Masking",
+    "prefix": "mbo"
+  },
+  "mask-border-repeat": {
+    "group": "CSS Masking",
+    "prefix": "mbr"
+  },
+  "mask-border-slice": {
+    "group": "CSS Masking",
+    "prefix": "mbs"
+  },
+  "mask-border-source": {
+    "group": "CSS Masking",
+    "prefix": "mbs"
+  },
+  "mask-border-width": {
+    "group": "CSS Masking",
+    "prefix": "mbw"
+  },
+  "mask-clip": {
+    "group": "CSS Masking",
+    "prefix": "mc"
+  },
+  "mask-composite": {
+    "group": "CSS Masking",
+    "prefix": "mc"
+  },
+  "mask-image": {
+    "group": "CSS Masking",
+    "prefix": "mi"
+  },
+  "mask-mode": {
+    "group": "CSS Masking",
+    "prefix": "mm"
+  },
+  "mask-origin": {
+    "group": "CSS Masking",
+    "prefix": "mo"
+  },
+  "mask-position": {
+    "group": "CSS Masking",
+    "prefix": "mp"
+  },
+  "mask-repeat": {
+    "group": "CSS Masking",
+    "prefix": "msr"
+  },
+  "mask-size": {
+    "group": "CSS Masking",
+    "prefix": "ms"
+  },
+  "mask-type": {
+    "group": "CSS Masking",
+    "prefix": "mty"
+  },
+  "masonry-auto-flow": {
+    "group": "CSS Grid Layout",
+    "prefix": "maf"
+  },
+  "math-style": {
+    "group": "MathML",
+    "prefix": "ms"
+  },
+  "max-block-size": {
+    "group": "CSS Logical Properties",
+    "prefix": "mbs"
+  },
+  "max-height": {
+    "group": "CSS Box Model",
+    "prefix": "mah"
+  },
+  "max-inline-size": {
+    "group": "CSS Logical Properties",
+    "prefix": "mis"
+  },
+  "max-lines": {
+    "group": "CSS Overflow",
+    "prefix": "mal"
+  },
+  "max-width": {
+    "group": "CSS Box Model",
+    "prefix": "maw"
+  },
+  "min-block-size": {
+    "group": "CSS Logical Properties",
+    "prefix": "mbs"
+  },
+  "min-height": {
+    "group": "CSS Box Model",
+    "prefix": "mih"
+  },
+  "min-inline-size": {
+    "group": "CSS Logical Properties",
+    "prefix": "mis"
+  },
+  "min-width": {
+    "group": "CSS Box Model",
+    "prefix": "miw"
+  },
+  "mix-blend-mode": {
+    "group": "Compositing and Blending",
+    "stacking": true,
+    "prefix": "mbm"
+  },
+  "object-fit": {
+    "group": "CSS Images",
+    "prefix": "of"
+  },
+  "object-position": {
+    "group": "CSS Images",
+    "prefix": "op"
+  },
+  "offset": {
+    "group": "CSS Motion Path",
+    "stacking": true,
+    "prefix": "off"
+  },
+  "offset-anchor": {
+    "group": "CSS Motion Path",
+    "prefix": "oa"
+  },
+  "offset-distance": {
+    "group": "CSS Motion Path",
+    "prefix": "od"
+  },
+  "offset-path": {
+    "group": "CSS Motion Path",
+    "stacking": true,
+    "prefix": "op"
+  },
+  "offset-position": {
+    "group": "CSS Motion Path",
+    "prefix": "op"
+  },
+  "offset-rotate": {
+    "group": "CSS Motion Path",
+    "prefix": "or"
+  },
+  "opacity": {
+    "group": "CSS Color",
+    "prefix": "op|opa"
+  },
+  "order": {
+    "group": "CSS Flexible Box Layout",
+    "prefix": "ord"
+  },
+  "orphans": {
+    "group": "CSS Fragmentation",
+    "prefix": "orp"
+  },
+  "outline": {
+    "group": "CSS Basic User Interface",
+    "prefix": "ol"
+  },
+  "outline-color": {
+    "group": "CSS Basic User Interface",
+    "prefix": "olc"
+  },
+  "outline-offset": {
+    "group": "CSS Basic User Interface",
+    "prefix": "olo"
+  },
+  "outline-style": {
+    "group": "CSS Basic User Interface",
+    "prefix": "ols"
+  },
+  "outline-width": {
+    "group": "CSS Basic User Interface",
+    "prefix": "ow"
+  },
+  "overflow": {
+    "group": "CSS Overflow",
+    "prefix": "ov"
+  },
+  "overflow-anchor": {
+    "group": "CSS Scroll Anchoring",
+    "prefix": "oa"
+  },
+  "overflow-block": {
+    "group": "CSS Overflow",
+    "prefix": "ob"
+  },
+  "overflow-clip-margin": {
+    "group": "CSS Overflow",
+    "prefix": "ocm"
+  },
+  "overflow-inline": {
+    "group": "CSS Overflow",
+    "prefix": "oi"
+  },
+  "overflow-wrap": {
+    "group": "CSS Text",
+    "prefix": "ow"
+  },
+  "overflow-x": {
+    "group": "CSS Overflow",
+    "prefix": "ovx"
+  },
+  "overflow-y": {
+    "group": "CSS Overflow",
+    "prefix": "ovy"
+  },
+  "overscroll-behavior": {
+    "group": "CSS Box Model",
+    "prefix": "ob"
+  },
+  "overscroll-behavior-block": {
+    "group": "CSS Box Model",
+    "prefix": "obb"
+  },
+  "overscroll-behavior-inline": {
+    "group": "CSS Box Model",
+    "prefix": "obi"
+  },
+  "overscroll-behavior-x": {
+    "group": "CSS Box Model",
+    "prefix": "obx"
+  },
+  "overscroll-behavior-y": {
+    "group": "CSS Box Model",
+    "prefix": "oby"
+  },
+  "padding": {
+    "group": "CSS Box Model",
+    "prefix": "p"
+  },
+  "padding-block": {
+    "group": "CSS Logical Properties",
+    "prefix": "pab"
+  },
+  "padding-block-end": {
+    "group": "CSS Logical Properties",
+    "prefix": "pbe"
+  },
+  "padding-block-start": {
+    "group": "CSS Logical Properties",
+    "prefix": "pbs"
+  },
+  "padding-bottom": {
+    "group": "CSS Box Model",
+    "prefix": "pb"
+  },
+  "padding-inline": {
+    "group": "CSS Logical Properties",
+    "prefix": "pi"
+  },
+  "padding-inline-end": {
+    "group": "CSS Logical Properties",
+    "prefix": "pie"
+  },
+  "padding-inline-start": {
+    "group": "CSS Logical Properties",
+    "prefix": "pis"
+  },
+  "padding-left": {
+    "group": "CSS Box Model",
+    "prefix": "pl"
+  },
+  "padding-right": {
+    "group": "CSS Box Model",
+    "prefix": "pr"
+  },
+  "padding-top": {
+    "group": "CSS Box Model",
+    "prefix": "pt"
+  },
+  "page-break-after": {
+    "group": "CSS Pages",
+    "prefix": "pgba"
+  },
+  "page-break-before": {
+    "group": "CSS Pages",
+    "prefix": "pgbb"
+  },
+  "page-break-inside": {
+    "group": "CSS Pages",
+    "prefix": "pgbi"
+  },
+  "paint-order": {
+    "group": "CSS Text",
+    "prefix": "po"
+  },
+  "perspective": {
+    "group": "CSS Transforms",
+    "stacking": true,
+    "prefix": "per"
+  },
+  "perspective-origin": {
+    "group": "CSS Transforms",
+    "prefix": "po"
+  },
+  "place-content": {
+    "group": "CSS Box Alignment",
+    "prefix": "pc"
+  },
+  "place-items": {
+    "group": "CSS Box Alignment",
+    "prefix": "pi"
+  },
+  "place-self": {
+    "group": "CSS Box Alignment",
+    "prefix": "ps"
+  },
+  "pointer-events": {
+    "group": "CSS Basic User Interface",
+    "prefix": "pe"
+  },
+  "position": {
+    "group": "CSS Positioning",
+    "stacking": true,
+    "prefix": "pos"
+  },
+  "quotes": {
+    "group": "CSS Generated Content",
+    "prefix": "q"
+  },
+  "resize": {
+    "group": "CSS Basic User Interface",
+    "prefix": "rsz"
+  },
+  "right": {
+    "group": "CSS Positioning",
+    "prefix": "r"
+  },
+  "rotate": {
+    "group": "CSS Transforms",
+    "stacking": true,
+    "prefix": "rot"
+  },
+  "row-gap": {
+    "group": "CSS Box Alignment",
+    "prefix": "rg"
+  },
+  "ruby-align": {
+    "group": "CSS Ruby",
+    "prefix": "ra"
+  },
+  "ruby-merge": {
+    "group": "CSS Ruby",
+    "prefix": "rm"
+  },
+  "ruby-position": {
+    "group": "CSS Ruby",
+    "prefix": "rp"
+  },
+  "scale": {
+    "group": "CSS Transforms",
+    "stacking": true,
+    "prefix": "sca"
+  },
+  "scrollbar-color": {
+    "group": "CSS Scrollbars",
+    "prefix": "sc"
+  },
+  "scrollbar-gutter": {
+    "group": "CSS Overflow",
+    "prefix": "sg"
+  },
+  "scrollbar-width": {
+    "group": "CSS Scrollbars",
+    "prefix": "sw"
+  },
+  "scroll-behavior": {
+    "group": "CSSOM View",
+    "prefix": "sb"
+  },
+  "scroll-margin": {
+    "group": "CSS Scroll Snap",
+    "prefix": "sm"
+  },
+  "scroll-margin-block": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smb"
+  },
+  "scroll-margin-block-start": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smbs"
+  },
+  "scroll-margin-block-end": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smbe"
+  },
+  "scroll-margin-bottom": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smb"
+  },
+  "scroll-margin-inline": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smi"
+  },
+  "scroll-margin-inline-start": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smis"
+  },
+  "scroll-margin-inline-end": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smie"
+  },
+  "scroll-margin-left": {
+    "group": "CSS Scroll Snap",
+    "prefix": "sml"
+  },
+  "scroll-margin-right": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smr"
+  },
+  "scroll-margin-top": {
+    "group": "CSS Scroll Snap",
+    "prefix": "smt"
+  },
+  "scroll-padding": {
+    "group": "CSS Scroll Snap",
+    "prefix": "sp"
+  },
+  "scroll-padding-block": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spb"
+  },
+  "scroll-padding-block-start": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spbs"
+  },
+  "scroll-padding-block-end": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spbe"
+  },
+  "scroll-padding-bottom": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spb"
+  },
+  "scroll-padding-inline": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spi"
+  },
+  "scroll-padding-inline-start": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spis"
+  },
+  "scroll-padding-inline-end": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spie"
+  },
+  "scroll-padding-left": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spl"
+  },
+  "scroll-padding-right": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spr"
+  },
+  "scroll-padding-top": {
+    "group": "CSS Scroll Snap",
+    "prefix": "spt"
+  },
+  "scroll-snap-align": {
+    "group": "CSS Scroll Snap",
+    "prefix": "ssa"
+  },
+  "scroll-snap-coordinate": {
+    "group": "CSS Scroll Snap",
+    "prefix": "ssc"
+  },
+  "scroll-snap-destination": {
+    "group": "CSS Scroll Snap",
+    "prefix": "ssd"
+  },
+  "scroll-snap-points-x": {
+    "group": "CSS Scroll Snap",
+    "prefix": "sspx"
+  },
+  "scroll-snap-points-y": {
+    "group": "CSS Scroll Snap",
+    "prefix": "sspy"
+  },
+  "scroll-snap-stop": {
+    "group": "CSS Scroll Snap",
+    "prefix": "sss"
+  },
+  "scroll-snap-type": {
+    "group": "CSS Scroll Snap",
+    "prefix": "sst"
+  },
+  "scroll-snap-type-x": {
+    "group": "CSS Scroll Snap",
+    "prefix": "sstx"
+  },
+  "scroll-snap-type-y": {
+    "group": "CSS Scroll Snap",
+    "prefix": "ssty"
+  },
+  "shape-image-threshold": {
+    "group": "CSS Shapes",
+    "prefix": "sit"
+  },
+  "shape-margin": {
+    "group": "CSS Shapes",
+    "prefix": "sm"
+  },
+  "shape-outside": {
+    "group": "CSS Shapes",
+    "prefix": "so"
+  },
+  "tab-size": {
+    "group": "CSS Text",
+    "prefix": "ts"
+  },
+  "table-layout": {
+    "group": "CSS Table",
+    "prefix": "tbl"
+  },
+  "text-align": {
+    "group": "CSS Text",
+    "prefix": "ta"
+  },
+  "text-align-last": {
+    "group": "CSS Text",
+    "prefix": "tal"
+  },
+  "text-combine-upright": {
+    "group": "CSS Writing Modes",
+    "prefix": "tcu"
+  },
+  "text-decoration": {
+    "group": "CSS Text Decoration",
+    "prefix": "td"
+  },
+  "text-decoration-color": {
+    "group": "CSS Text Decoration",
+    "prefix": "tdc"
+  },
+  "text-decoration-line": {
+    "group": "CSS Text Decoration",
+    "prefix": "tdl"
+  },
+  "text-decoration-skip": {
+    "group": "CSS Text Decoration",
+    "prefix": "tds"
+  },
+  "text-decoration-skip-ink": {
+    "group": "CSS Text Decoration",
+    "prefix": "tdsi"
+  },
+  "text-decoration-style": {
+    "group": "CSS Text Decoration",
+    "prefix": "tds"
+  },
+  "text-decoration-thickness": {
+    "group": "CSS Text Decoration",
+    "prefix": "tdt"
+  },
+  "text-emphasis": {
+    "group": "CSS Text Decoration",
+    "prefix": "te"
+  },
+  "text-emphasis-color": {
+    "group": "CSS Text Decoration",
+    "prefix": "tec"
+  },
+  "text-emphasis-position": {
+    "group": "CSS Text Decoration",
+    "prefix": "tep"
+  },
+  "text-emphasis-style": {
+    "group": "CSS Text Decoration",
+    "prefix": "tes"
+  },
+  "text-indent": {
+    "group": "CSS Text",
+    "prefix": "ti"
+  },
+  "text-justify": {
+    "group": "CSS Text",
+    "prefix": "tj"
+  },
+  "text-orientation": {
+    "group": "CSS Writing Modes",
+    "prefix": "to"
+  },
+  "text-overflow": {
+    "group": "CSS Basic User Interface",
+    "prefix": "tov"
+  },
+  "text-rendering": {
+    "group": "CSS Miscellaneous",
+    "prefix": "tr"
+  },
+  "text-shadow": {
+    "group": "CSS Text Decoration",
+    "prefix": "tsh"
+  },
+  "text-size-adjust": {
+    "group": "CSS Text",
+    "prefix": "tsa"
+  },
+  "text-transform": {
+    "group": "CSS Text",
+    "prefix": "tt"
+  },
+  "text-underline-offset": {
+    "group": "CSS Text Decoration",
+    "prefix": "tuo"
+  },
+  "text-underline-position": {
+    "group": "CSS Text Decoration",
+    "prefix": "tup"
+  },
+  "top": {
+    "group": "CSS Positioning",
+    "prefix": "t"
+  },
+  "touch-action": {
+    "group": "Pointer Events",
+    "prefix": "toa"
+  },
+  "transform": {
+    "group": "CSS Transforms",
+    "stacking": true,
+    "prefix": "trf"
+  },
+  "transform-box": {
+    "group": "CSS Transforms",
+    "prefix": "tb"
+  },
+  "transform-origin": {
+    "group": "CSS Transforms",
+    "prefix": "trfo"
+  },
+  "transform-style": {
+    "group": "CSS Transforms",
+    "stacking": true,
+    "prefix": "trfs"
+  },
+  "transition": {
+    "group": "CSS Transitions",
+    "prefix": "trs"
+  },
+  "transition-delay": {
+    "group": "CSS Transitions",
+    "prefix": "trsde"
+  },
+  "transition-duration": {
+    "group": "CSS Transitions",
+    "prefix": "trsdu"
+  },
+  "transition-property": {
+    "group": "CSS Transitions",
+    "prefix": "trsp"
+  },
+  "transition-timing-function": {
+    "group": "CSS Transitions",
+    "prefix": "trstf"
+  },
+  "translate": {
+    "group": "CSS Transforms",
+    "stacking": true,
+    "prefix": "tra"
+  },
+  "unicode-bidi": {
+    "group": "CSS Writing Modes",
+    "prefix": "ub"
+  },
+  "user-select": {
+    "group": "CSS Basic User Interface",
+    "prefix": "us"
+  },
+  "vertical-align": {
+    "group": "CSS Table",
+    "prefix": "va"
+  },
+  "visibility": {
+    "group": "CSS Box Model",
+    "prefix": "v"
+  },
+  "white-space": {
+    "group": "CSS Text",
+    "prefix": "whs"
+  },
+  "widows": {
+    "group": "CSS Fragmentation",
+    "prefix": "wid"
+  },
+  "width": {
+    "group": "CSS Box Model",
+    "prefix": "w"
+  },
+  "will-change": {
+    "group": "CSS Will Change",
+    "prefix": "wc"
+  },
+  "word-break": {
+    "group": "CSS Text",
+    "prefix": "wob"
+  },
+  "word-spacing": {
+    "group": "CSS Text",
+    "prefix": "wos"
+  },
+  "word-wrap": {
+    "group": "CSS Text",
+    "prefix": "wow"
+  },
+  "writing-mode": {
+    "group": "CSS Writing Modes",
+    "prefix": "wm"
+  },
+  "z-index": {
+    "group": "CSS Positioning",
+    "stacking": true,
+    "prefix": "z"
+  }
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Design Tokens</title>
+</head>
+<body>
+	
+</body>
+<script type="module">
+	const tokens = {
+	animations: {},
+	aspectRatios: [],
+	borders: [],
+	colors: [],
+	easings: [],
+	files: [],
+	gradients: [],
+	other: [],
+	shadows: [],
+	shapes: [],
+	sizes: [],
+	typography: {},
+};
+	const properties = fetch("./data/properties.json")
+  .then((data) => data.json())
+  .then((json) => {
+    console.log(json)
+  });
+
+</script>
+</html>
