@@ -29,8 +29,7 @@ Inidvidual tokens:
 ---
 
 ### colors
-Any valid color: named, hex, rgb, hsl, hwb, oklab.
-Or: `currentColor`, `initial`, `inherit` etc.
+Any valid color: named, hex, rgb, hsl, hwb, oklab — or keywords like: `currentColor`, `initial`, `inherit` etc.
 
 ---
 
@@ -97,10 +96,17 @@ Individual tokens:
 ---
 
 ### sizes
+Sizes in pixels or any unit, `clamp`'ed sizes etc.
 
 ---
 
 ### typography
+Complete font-declaration, could also reference other tokens (see below)
+
+Individual tokens:
+
+- @font-face
 - font-family
 - font-size
+- font-weight
 - line-height
