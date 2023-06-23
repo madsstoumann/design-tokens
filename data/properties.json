@@ -1,83 +1,96 @@
 {
   "accent-color": {
     "group": "CSS Basic User Interface",
-    "prefix": "acc"
+    "prefix": "acc",
+    "type": "color"
   },
   "align-content": {
     "group": "CSS Box Alignment",
-    "prefix": "ac"
+    "prefix": "ac",
+    "type": "position"
   },
   "align-items": {
     "group": "CSS Box Alignment",
-    "prefix": "ai"
+    "prefix": "ai",
+    "type": "position"
   },
   "align-self": {
     "group": "CSS Box Alignment",
-    "prefix": "as"
+    "prefix": "as",
+    "type": "position"
   },
   "align-tracks": {
     "group": "CSS Grid Layout",
-    "prefix": "at"
+    "prefix": "at",
+    "type": "position"
   },
   "all": {
     "group": "CSS Miscellaneous",
-    "prefix": "all"
+    "prefix": "all",
+    "type": "other"
   },
   "animation": {
     "group": "CSS Animations",
-    "prefix": "anim"
+    "prefix": "anim",
   },
   "animation-delay": {
     "group": "CSS Animations",
-    "prefix": "animdel"
+    "prefix": "animdel",
+    "type": "time"
   },
   "animation-direction": {
     "group": "CSS Animations",
-    "prefix": "animdir"
+    "prefix": "animdir",
+    "type": "direction"
   },
   "animation-duration": {
     "group": "CSS Animations",
-    "prefix": "animdur"
+    "prefix": "animdur",
+    "type": "time"
   },
   "animation-fill-mode": {
     "group": "CSS Animations",
-    "prefix": "animfm"
+    "prefix": "animfm",
+    "type": "fill-mode"
   },
   "animation-iteration-count": {
     "group": "CSS Animations",
-    "prefix": "animic"
+    "prefix": "animic",
+    "type": "unit"
   },
   "animation-name": {
     "group": "CSS Animations",
-    "prefix": "animn"
+    "prefix": "animn",
+    "type": "other"
   },
   "animation-play-state": {
     "group": "CSS Animations",
-    "prefix": "animps"
+    "prefix": "animps",
+    "type": "play-state"
   },
   "animation-timing-function": {
     "group": "CSS Animations",
-    "prefix": "animtf"
+    "prefix": "animtf",
+    "type": "timing-function"
   },
   "animation-timeline": {
     "group": "CSS Animations",
-    "prefix": "at"
+    "prefix": "at",
   },
   "appearance": {
     "group": "CSS Basic User Interface",
-    "prefix": "ap"
+    "prefix": "ap",
+    "type": "other"
   },
   "aspect-ratio": {
     "group": "CSS Basic User Interface",
-    "prefix": "ar"
-  },
-  "azimuth": {
-    "group": "CSS Speech",
-    "prefix": "azi"
+    "prefix": "ar",
+    "type": "radii"
   },
   "backdrop-filter": {
     "group": "Filter Effects",
-    "prefix": "bf"
+    "prefix": "bf",
+    "type": "other"
   },
   "backface-visibility": {
     "group": "CSS Transforms",
@@ -85,7 +98,7 @@
   },
   "background": {
     "group": "CSS Backgrounds and Borders",
-    "prefix": "bg"
+    "prefix": "bg",
   },
   "background-attachment": {
     "group": "CSS Backgrounds and Borders",
@@ -137,7 +150,8 @@
   },
   "block-size": {
     "group": "CSS Logical Properties",
-    "prefix": "bs"
+    "prefix": "bs",
+    "type": "size"
   },
   "border": {
     "group": "CSS Backgrounds and Borders",
